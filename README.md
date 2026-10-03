@@ -7,6 +7,7 @@ A collection of my web development projects built while learning and improving m
 | #  |      Project      |      Technologies      |
 |----|-------------------|------------------------|
 | 01 | Static Webpage    | HTML, CSS              |
+| 02 | Netflix Clone     | HTML, CSS              |
 ## Purpose
 
 This repository contains my daily web development practice projects, UI recreations, and experiments.
